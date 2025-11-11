@@ -5,5 +5,5 @@ This project uses the Adafruit_NeoPixel library by Adafruit Industries.
 Library licensed under the MIT License.
 https://github.com/adafruit/Adafruit_NeoPixel
 
-schematic diagram
+circuit diagram
 ![Project Image](schematic.png)
