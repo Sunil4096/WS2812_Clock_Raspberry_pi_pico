@@ -6,4 +6,4 @@ Library licensed under the MIT License.
 https://github.com/adafruit/Adafruit_NeoPixel
 
 <h1 align="center"> Circuit diagram</h1>
-![Project Image](schematic.png)
+![Project Image](schematic.png)!
